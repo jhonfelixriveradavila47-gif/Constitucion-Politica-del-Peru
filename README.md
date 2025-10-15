@@ -1,5 +1,3 @@
-# Constitucion-Politica-del-Peru
-Análisis, artículos y materiales sobre la Constitución Política del Perú.
 # Constitución Política del Perú 🇵🇪
 
 Repositorio educativo y académico dedicado al estudio, análisis y difusión de la **Constitución Política del Perú de 1993**.  
